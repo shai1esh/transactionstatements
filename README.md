@@ -8,7 +8,10 @@ Rest spring boot demo for account and transaction details
 ## Setup and Tech stack
 The application can be run locally, the requirements for each setup are below.
 * Intellij --> need to import in intellij 
-* H2 Database -->  can be viewed on browser (no setup needed)
+* H2 Database -->  can be viewed on browser (no setup needed ) use url properties to view data on browser, 
+    * jdbc url - jdbc:h2:mem:accountdb
+    * usename - anz
+    * password - anz
 
 ## API:
 * Account API
